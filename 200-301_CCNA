@@ -1,0 +1,63 @@
+200-301 CCNA v1.1 Exam Topics
+
+1.0 Network fundamentals
+
+1.1 Explain the role and function of network components
+
+1.1.a Routers
+
+- Current models commonly used
+	-> ISR 4000 Series
+	-> ASR 1000 Series
+- Typically used for WAN connections to route between sites and services.
+- Uses protocols like EIGRP, BGP and OSPF to advertise routes.
+- Routers forward traffic based on IP networks.
+
+
+1.1.b Layer 2 and Layer 3 switches
+
+- Current models commonly used
+	-> Catalyst 9200
+	-> Catalyst 9400
+	-> Catalyst 9300
+	-> Catalyst 9500
+
+- L2 switches can only  switch traffic while L3 switches can switch and route traffic
+- Typically used for LAN connections to switch between closets or buildings.
+- Uses protocols like Rapid PVSTR + Spanning Tree & LACP.
+- Port types are trunk and access mode with VLANs
+- Forward traffic based on MAC addresses
+
+1.1.c Next-generation firewalls and IPS
+
+- Current models
+	-> Firepower Series
+	-> ASA series
+- Next-generation firewalls provide additional security checks when compared to a legacy firewall.
+Including things like Application Visibility and Control, NGIPS, Advanced Malware Protection, URL filtering , DDoS.
+- As cyberattacks evolve, network security requires a deeper level of security  and visibility for the enterprise.
+
+1.1.d Access points
+
+- Current Models
+	-> Catalyst 9100 Series
+	-> 2800
+	-> 3800
+	-> 4800
+- Provide wireless network connectivity
+- Can be deployed in autonomous or lightweight mode 
+- Autonomous mode APs require a Wireless LAN Controller (WCL) and are managed individually.
+- Lightweight mode APs require a Wireless LAN Controller (WCL) and are centrally managed.
+This mode is more commonly used in enterprise networks.
+- RF environments can be dynamically changed to improved wireless coverage with centrally managed lightweight mode APs.
+
+
+1.1.e Controllers (Cisco DNA Center and WLC)
+- The Cisco DNA Center (DNAC) server is the network  management and command
+
+
+
+
+
+
+
