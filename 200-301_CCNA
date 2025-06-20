@@ -1,6 +1,7 @@
-200-301 CCNA v1.1 Exam Topics
+##200-301 CCNA v1.1 Exam Topics
 
-1.0 Network fundamentals
+~~~
+###1.0 Network fundamentals
 
 1.1 Explain the role and function of network components
 
@@ -57,7 +58,5 @@ This mode is more commonly used in enterprise networks.
 
 
 
-
-
-
+~~~
 
